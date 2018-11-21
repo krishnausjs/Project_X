@@ -16,7 +16,8 @@
 
 ## inspiration-from
 I got inspired from 
--[ ] [Jwasham Git hub] (https://github.com/jwasham/coding-interview-university#why-use-it)
+- [ ] [Jwasham Git hub](https://github.com/jwasham/coding-interview-university#why-use-it).
+
 My readme may look similar to his as I am trying to follow the same path. Will try to keep it more simple than his github.
 
 ## what-is-it
