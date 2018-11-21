@@ -1,15 +1,15 @@
 # Project_X
 
 ## Table of Contents
-- [Inspiration from ?] (#inspiration-from)
+- [Inspiration from ?](#inspiration-from)
 - [What is it?](#what-is-it)
-- [Video Resources] (#about-video-resources)
-- [Known Programming Languages] (#known-programming-languages)
-- [Learning Programming Languages] (#learning-programming-languages)
-- [Books List] (#Books-list)
-- [Time Complexity] (#time-complexity)
-- [Space Complexity] (#space-complexity)
-- [Data Structures] (#data-structures)
+- [Video Resources](#about-video-resources)
+- [Known Programming Languages](#known-programming-languages)
+- [Learning Programming Languages](#learning-programming-languages)
+- [Books List](#Books-list)
+- [Time Complexity](#time-complexity)
+- [Space Complexity](#space-complexity)
+- [Data Structures](#data-structures)
 
 
 
