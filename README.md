@@ -70,6 +70,9 @@ My readme may look similar to his as I am trying to follow the same path. Will t
 This is 4 months plan to track my progress and brushup my old skills.
 This Project X is not for my self improvement. If it helps anyone, that would be a bonus.
 
+## arrays
+- [ ] [Best Article-1](https://medium.com/@vardanator/self-organizing-sorted-linked-list-in-c-ae24b7e0b600)
+
 ## time-complexity
 - [ ] [Big-O-Cheatsheet](http://bigocheatsheet.com)
 
