@@ -75,7 +75,7 @@ This Project_X is only for my self improvement. If it helps anyone, that would b
 
 ## time-complexity
 - [ ] [Big-O-Cheatsheet](http://bigocheatsheet.com)
-
+- [ ] [Abdul-Bari-Videos](https://youtu.be/lj3E24nnPjI)
 ## linked-lists
 +
 
