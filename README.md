@@ -5,6 +5,8 @@
 - [What is it?](#what-is-it)
 - [Video Resources](#about-video-resources)
 - [Books List](#Books-list)
+- [C Language]
+    - [File Operations](Topics/file-operations.md) 	
 - [Time Complexity](#time-complexity)
 - [Space Complexity](#space-complexity)
 - [Data Structures](#data-structures)
