@@ -36,5 +36,11 @@ struct Node
 
 - Linked lists allow insertion and removal of nodes at any point in the list, and allow doing so with a constant number of operations by keeping the link previous to the link being added or removed in memory during list traversal.
 
+## Single Linked List
+- Singly linked lists contain nodes which have a data field as well as 'next' field, which points to the next node in line of nodes.
+
+- Operations that can be performed on singly linked lists include insertion, deletion and traversal.
+
+## Creating a linked list
 
 Source : [Linked_list](https://en.wikipedia.org/wiki/Linked_list).
