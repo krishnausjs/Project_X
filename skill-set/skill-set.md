@@ -8,4 +8,4 @@
   Will not be discussing any proprietary skills learnt for specific project purpose under Project_X.
 
 ## Topics
-- [C Language](topics/c-language.md)
+- [C Language](c-language/c-language.md)
